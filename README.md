@@ -1,23 +1,22 @@
 # awesome-rust-cn
-Rust资源大全中文版。拼音首字母/英文首字母排序。
+Rust资源大全中文版，拼音首字母排序。
 > 欢迎加入，共同完善。
 
 ## 目录
 
 - [操作系统（Operating systems）](#operating-systems)
 - [仿真模拟（Emulators）](#emulators)
-- [音频](#audio)
-- [密码学](#cryptocurrencies)
-- [数据库](#database)
-- [游戏](#games)
-- [图形处理](#graphics)
-- [工业自动化](#industrial-automation)
-- [效率](#productivity)
-- [安全工具](#security-tools)
-- [系统工具](#system-tools)
-- [文本编辑器](#text-editors)
-- [文本处理](#text-processing)
-- [实用工具](#utilities)
+- [音频（Audio）](#audio)
+- [密码货币（Cryptocurrencies）](#cryptocurrencies)
+- [数据库（Database）](#database)
+- [游戏（Games）](#games)
+- [图形处理（Graphics）](#graphics)
+- [工业自动化（Industrial automation）](#industrial-automation)
+- [安全工具（Security tools）](#security-tools)
+- [系统工具（System tools）](#system-tools)
+- [文本编辑器（Text editors）](#text-editors)
+- [文本处理（Text processing）](#text-processing)
+- [实用工具（Utilities）](#utilities)
 - [视频](#video)
 - [虚拟化](#virtualization)
 - [视窗管理](#window-managers)
