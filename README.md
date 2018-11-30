@@ -35,7 +35,7 @@ Rust资源大全中文版。
   - [静态分析](#static-analysis)
   - [测试](#testing)
   - [语言转译](#transpiling)
-- [开源库](#libraries)
+- [库](#libraries)
   - [人工智能](#artificial-intelligence)
       - [遗传算法](#genetic-algorithms)
       - [机器学习](#machine-learning)
