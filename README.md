@@ -1,6 +1,6 @@
 # awesome-rust-cn
 Rust资源大全中文版。拼音首字母/英文首字母排序。
-> 由@budshome维护。欢迎加入，共同完善。
+> 由 [@budshome](https://github.com/budshome) 维护。欢迎加入，共同完善。
 
 ## 目录
 
