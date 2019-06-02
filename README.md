@@ -2,7 +2,7 @@
 
 Rust资源大全中文版。
 
-若您希望添加资源，请阅读[资源添加](#资源添加)。
+亲爱的`Rustaceans`，若您希望添加资源，请阅读[资源添加](#资源添加)。
 
 ## [Rust棒棒哒](#awesome-rust)
 
@@ -96,14 +96,14 @@ Rust资源大全中文版。
 
 ## 资源添加
 
-**贡献资源的最简单方式是——**
+**资源添加的最简单方式是——**
 
 - 点击 [https://github.com/zzy/awesome-rust-zh/edit/master/README.md](https://github.com/zzy/awesome-rust-zh/edit/master/README.md)；
 - 对文件进行编辑，然后按照github的指导说明创建拉取请求。
 
 **如果希望在`README.md`中添加一个资源，请首先做如下考虑——**
 
-- 这个资源是否对Rustaceans有用？是否试用过？是否稳定？
+- 这个资源是否对`Rustaceans`有用？是否试用过？是否稳定？
 - 请您在贡献资源时，使用模板：
 
 `[username/repository_name](https://github.com/username/repository_name) [[repository_name](https://crates.io/crates/repository_name)] — DESCRIPTION [<img src="https://api.travis-ci.org/username/repository_name.svg?branch=master">](https://travis-ci.org/username/repository_name)`
