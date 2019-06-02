@@ -98,10 +98,10 @@ Rust资源大全中文版。
 
 **贡献资源的最简单方式是——**
 
-- 打开[https://github.com/zzy/awesome-rust-zh/blob/master/README.md](https://github.com/zzy/awesome-rust-zh/blob/master/README.md)；
+- 点击[https://github.com/zzy/awesome-rust-zh/edit/master/README.md](https://github.com/zzy/awesome-rust-zh/edit/master/README.md)；
 - 点击右上角的`笔`标志，对文件进行编辑，然后按照github的指导说明创建拉取请求。
 
-**如果希望在`README.md`中增加一个资源，请首先作如下考虑——**
+**如果希望在`README.md`中添加一个资源，请首先做如下考虑——**
 
 - 这个资源是否对Rustaceans有用？是否试用过？是否稳定？
 - 请您在贡献资源时，使用模板：
