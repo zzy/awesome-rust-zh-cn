@@ -1,6 +1,6 @@
 # Rust棒棒哒
 
-Rust资源大全中文版。
+Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.com)。
 
 亲爱的`Rustaceans`，若您希望添加资源，请阅读[资源添加](#资源添加)。
 
@@ -101,13 +101,13 @@ Rust资源大全中文版。
 - 点击 [https://github.com/zzy/awesome-rust-zh/edit/master/README.md](https://github.com/zzy/awesome-rust-zh/edit/master/README.md)；
 - 编辑，然后按照GitHub的指导说明创建拉取请求。
 
-**如果希望在`README.md`中添加一个资源，请首先做如下考虑——**
+**如果希望在`README.md`中添加资源，请首先做如下考虑——**
 
 - 这个资源是否对`Rustaceans`有用？是否试用过？是否稳定？
 - 请您在贡献资源时，使用模板：
 
 `[username/repository_name](https://github.com/username/repository_name) [[repository_name](https://crates.io/crates/repository_name)] — DESCRIPTION [<img src="https://api.travis-ci.org/username/repository_name.svg?branch=master">](https://travis-ci.org/username/repository_name)`
 
-*注：末尾的svg项可选。*
+*注：末尾的`svg`项可选。*
 
 谢谢！
