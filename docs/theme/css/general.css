@@ -63,7 +63,8 @@ a.header:target h4:before {
 .content main {
     margin-left: auto;
     margin-right: auto;
-    max-width: var(--content-max-width);
+    max-width: 100%;
+    /* max-width: var(--content-max-width); */
 }
 .content a { text-decoration: none; }
 .content a:hover { text-decoration: underline; }
