@@ -4,7 +4,7 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
 
 亲爱的`Rustaceans`，若您希望添加资源，请阅读[资源添加](#资源添加)。
 
-## [Rust棒棒哒](#awesome-rust)
+------
 
 - [管理面板（Admin Panels）](#admin-panels)
 - [算法和设计模式（Algorithms & Design Patterns）](#algorithms--design-patterns)
