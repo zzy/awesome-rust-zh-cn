@@ -1,3 +1,2 @@
 * linguist-language=Rust
-*.md linguist-detectable=true
 docs/* linguist-documentation
