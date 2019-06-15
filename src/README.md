@@ -12,7 +12,7 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
   - [机器学习（Machine Learning）](#机器学习machine-learning)
   <!-- - [推荐算法（Recommender Algorithms）](#推荐算法recommender-algorithms) -->
 - [天文（Astronomy）](#天文astronomy)
-- [异步（Asynchronous）](#asynchronous)
+- [异步（Asynchronous）](#异步asynchronous)
 
 ## 人工智能（Artificial Intelligence）
 
