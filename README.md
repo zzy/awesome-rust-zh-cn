@@ -10,7 +10,9 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
   - [深度学习（Deep Learning）](#深度学习deep-learning)
   - [遗传算法（Genetic Algorithms）](#遗传算法genetic-algorithms)
   - [机器学习（Machine Learning）](#机器学习machine-learning)
-  - [推荐算法（Recommender Algorithms）](#推荐算法recommender-algorithms)
+  <!-- - [推荐算法（Recommender Algorithms）](#推荐算法recommender-algorithms) -->
+- [天文（Astronomy）](#天文astronomy)
+- [异步（Asynchronous）](#asynchronous)
 
 ## 人工智能（Artificial Intelligence）
 
@@ -30,7 +32,7 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
 
 [[机器学习（Machine Learning） - crates.io](https://crates.io/keywords/machine-learning)]
 
-请参阅 - [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f).
+请参阅 - [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f)。
 
 - [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine) — 机器学习库。[![Build Status](https://api.travis-ci.org/AtheMathmo/rusty-machine.svg?branch=master)](https://travis-ci.org/AtheMathmo/rusty-machine)
 - [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) — 自组织映射神经网络， 即Self Organizing Maps (SOM)， 可以对数据进行无监督学习聚类。[![Build Status](https://api.travis-ci.org/avinashshenoy97/RusticSOM.svg?branch=master)](https://travis-ci.org/avinashshenoy97/RusticSOM)
@@ -38,6 +40,24 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
 - [tensorflow/rust](https://github.com/tensorflow/rust) — TensorFlow的Rust语言绑定。[![Build Status](https://api.travis-ci.org/tensorflow/rust.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
 - [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — 机器学习库。[![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) — PyTorch的Rust语言绑定。 [![Build Status](https://api.travis-ci.org/LaurentMazare/tch-rs.svg?branch=master)](https://travis-ci.org/LaurentMazare/tch-rs)
+
+### 天文（Astronomy）
+
+[[天文（Astronomy） - crates.io](https://crates.io/keywords/astronomy)]
+
+- [saurvs/astro-rust](https://github.com/saurvs/astro-rust) — 天文计算库。[<img src="https://api.travis-ci.org/saurvs/astro-rust.svg?branch=master">](https://travis-ci.org/saurvs/astro-rust)
+- [fitsio](https://crates.io/crates/fitsio) — cfitsio接口封装库。[<img src="https://api.travis-ci.org/mindriot101/rust-fitsio.svg?branch=master">](https://travis-ci.org/mindriot101/rust-fitsio)
+- [flosse/rust-sun](https://github.com/flosse/rust-sun) — 计算太阳位置。[<img src="https://api.travis-ci.org/flosse/rust-sun.svg?branch=master">](https://travis-ci.org/flosse/rust-sun)
+
+## 异步（Asynchronous）
+
+- [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) — 协程I/O库与工作窃取算法。[<img src="https://api.travis-ci.org/zonyitoo/coio-rs.svg?branch=master">](https://travis-ci.org/zonyitoo/coio-rs)
+- [dpc/mioco](https://github.com/dpc/mioco) — 可伸缩，基于协程的异步IO库。提供虚拟调度的绿色线程，类似Golang中的Goroutines，亦称纤程（fibers）。[<img src="https://img.shields.io/travis/dpc/mioco/master.svg?style=flat-square" alt="Travis CI Build Status">](https://travis-ci.org/dpc/mioco)
+- [TeaEntityLab/fpRust](https://github.com/TeaEntityLab/fpRust) — 为Rust提供面向函数范式编程特性，如：Monad/MonadIO, Handler, Coroutine/doNotation等。[<img src="https://api.travis-ci.org/TeaEntityLab/fpRust.svg?branch=master" alt="Travis CI Build Status">](https://travis-ci.org/TeaEntityLab/fpRust)
+- [rust-lang-nursery/futures-rs](https://github.com/rust-lang-nursery/futures-rs) — 零开销异步编程。[<img src="https://api.travis-ci.org/rust-lang-nursery/futures-rs.svg?branch=master" alt="Travis CI Build Status">](https://travis-ci.org/rust-lang-nursery/futures-rs)
+- [mio](https://github.com/tokio-rs/mio) — MIO是一个轻量级的异步I/O库，其重点是尽可能减少操作系统抽象的开销。[<img src="https://api.travis-ci.org/tokio-rs/mio.svg?branch=master">](https://travis-ci.org/tokio-rs/mio)
+- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) — 高性能`Stackful`协程库，类似Golang中的Goroutines，可以很容易地用来设计和开发大并发程序。[<img src="https://api.travis-ci.org/Xudong-Huang/may.svg?branch=master">](https://travis-ci.org/Xudong-Huang/may)
+- [rustasync/runtime](https://github.com/rustasync/runtime) - 和`stdlib`无缝融合的异步API。[![Crates.io](https://img.shields.io/crates/v/runtime.svg?style=flat-square)](https://crates.io/crates/runtime) [![Build status](https://img.shields.io/azure-devops/build/yoshuawuyts/rustasync/2/master.svg?style=flat-square)](https://dev.azure.com/yoshuawuyts/rustasync/_build?definitionId=2)
 
 <!-- - [管理面板（Admin Panels）](#admin-panels)
 - [算法和设计模式（Algorithms & Design Patterns）](#algorithms--design-patterns)
