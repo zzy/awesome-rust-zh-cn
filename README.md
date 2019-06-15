@@ -37,7 +37,7 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
 - [spearow/juice](https://github.com/spearow/juice) - 黑客适用的机器学习引擎（以前称为[autumnai/leaf](https://github.com/autumnai/leaf)）。
 - [tensorflow/rust](https://github.com/tensorflow/rust) — TensorFlow的Rust语言绑定。[![Build Status](https://api.travis-ci.org/tensorflow/rust.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
 - [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — 机器学习库。[![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
-- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) — Pytorch的Rust语言绑定。 [![Build Status](https://api.travis-ci.org/LaurentMazare/tch-rs.svg?branch=master)](https://travis-ci.org/LaurentMazare/tch-rs)
+- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) — PyTorch的Rust语言绑定。 [![Build Status](https://api.travis-ci.org/LaurentMazare/tch-rs.svg?branch=master)](https://travis-ci.org/LaurentMazare/tch-rs)
 
 <!-- - [管理面板（Admin Panels）](#admin-panels)
 - [算法和设计模式（Algorithms & Design Patterns）](#algorithms--design-patterns)
