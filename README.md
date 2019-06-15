@@ -6,14 +6,43 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
 
 ------
 
-- [管理面板（Admin Panels）](#admin-panels)
+- [人工智能（Artificial Intelligence）](#人工智能artificial-intelligence)
+  - [深度学习（Deep Learning）](#深度学习deep-learning)
+  - [遗传算法（Genetic Algorithms）](#遗传算法genetic-algorithms)
+  - [机器学习（Machine Learning）](#机器学习machine-learning)
+  - [推荐算法（Recommender Algorithms）](#推荐算法recommender-algorithms)
+
+## 人工智能（Artificial Intelligence）
+
+### 深度学习（Deep Learning）
+
+[[深度学习（Deep Learning）- crates.io](https://crates.io/keywords/deep-learning)]
+
+### 遗传算法（Genetic Algorithms）
+
+- [Martin1887/oxigen](https://github.com/Martin1887/oxigen) — 快速、并行、可扩展、适应性强的遗传算法库。使用此库例子可在几秒钟内解决n皇后问题（n-queens，n=255），且使用内存小于1MB。
+- [innoave/genevo](https://github.com/innoave/genevo) — 可定制、可扩展的遗传算法模拟器。
+- [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — 进化算法库。
+- [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic) — 遗传算法执行框架，具备模块化API。
+- [yurytsoy/revonet](https://github.com/yurytsoy/revonet) — 实数编码遗传算法库，解决优化问题及神经网络训练。
+
+### 机器学习（Machine Learning）
+
+[[机器学习（Machine Learning） - crates.io](https://crates.io/keywords/machine-learning)]
+
+请参阅 - [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f).
+
+- [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine) — 机器学习库。[![Build Status](https://api.travis-ci.org/AtheMathmo/rusty-machine.svg?branch=master)](https://travis-ci.org/AtheMathmo/rusty-machine)
+- [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) — 自组织映射神经网络， 即Self Organizing Maps (SOM)， 可以对数据进行无监督学习聚类。[![Build Status](https://api.travis-ci.org/avinashshenoy97/RusticSOM.svg?branch=master)](https://travis-ci.org/avinashshenoy97/RusticSOM)
+- [spearow/juice](https://github.com/spearow/juice) - 黑客适用的机器学习引擎（以前称为[autumnai/leaf](https://github.com/autumnai/leaf)）。
+- [tensorflow/rust](https://github.com/tensorflow/rust) — TensorFlow的Rust语言绑定。[![Build Status](https://api.travis-ci.org/tensorflow/rust.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
+- [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — 机器学习库。[![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
+- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) — Pytorch的Rust语言绑定。 [![Build Status](https://api.travis-ci.org/LaurentMazare/tch-rs.svg?branch=master)](https://travis-ci.org/LaurentMazare/tch-rs)
+
+<!-- - [管理面板（Admin Panels）](#admin-panels)
 - [算法和设计模式（Algorithms & Design Patterns）](#algorithms--design-patterns)
 - [反垃圾处理（Anti-spam）](#anti-spam)
-- [人工智能（Artificial Intelligence）](#artificial-intelligence)
-  - [深度学习（Deep Learning）](#deep-learning)
-  - [遗传算法（Genetic Algorithms）](#genetic-algorithms)
-  - [机器学习（Machine Learning）](#machine-learning)
-  - [推荐算法（Recommender Algorithms）](#recommender-algorithms)
+
 - [资源管理（Asset Management）](#asset-management)
 - [音频（Audio）](#音频audio)
 - [验证（Authentication）](#authentication)
@@ -86,7 +115,7 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
 - [网页爬虫（Web Crawling & Web Scraping）](#web-crawling--web-scraping)
 - [Web框架（Web Frameworks）](#web-frameworks)
 - [WebSocket](#websocket)
-- [Web服务器（Web Servers）](#web-servers)
+- [Web服务器（Web Servers）](#web-servers) -->
 
 ## 音频（Audio）
 
@@ -110,4 +139,6 @@ Rust资源大全中文版，[https://rust.budshome.com](https://rust.budshome.co
 
 *注：末尾的`svg`项可选。*
 
-谢谢！
+## 参考
+
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
