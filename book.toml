@@ -9,12 +9,11 @@ multilingual = true
 build-dir = "docs"
 
 [output.html]
-theme = "src/theme"
+theme = "theme"
+git-repository-url = "https://github.com/zzy/awesome-rust-zh-cn"
 # default-theme = "rust"
 curly-quotes = true
 mathjax-support = true
-# git_repository_url = "https://github.com/zzy/awesome-rust-zh"
-# git-repository-icon = "fa-code-fork"
 
 [output.html.playpen]
 editable = true
