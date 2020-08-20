@@ -2,6 +2,7 @@
 title = "Rust棒棒哒（资源大全中文版）"
 authors = ["zzy"]
 description = "Rust棒棒哒, Rust资源大全, Rust资源大全中文版）"
+language = "zh"
 src = "src"
 multilingual = true
 
