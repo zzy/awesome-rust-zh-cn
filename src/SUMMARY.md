@@ -1,6 +1,6 @@
 # 目录
 
-[Rust棒棒哒](README.md)
+[Rust 棒棒哒](README.md)
 
 <!-- - [管理面板（Admin Panels）](admin-panels.md)
 - [算法和设计模式（Algorithms & Design Patterns）](algorithms--design-patterns.md)

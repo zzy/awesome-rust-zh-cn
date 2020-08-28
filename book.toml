@@ -1,7 +1,7 @@
 [book]
-title = "Rust棒棒哒（资源大全中文版）"
+title = "Rust 棒棒哒（资源大全中文版）"
 authors = ["zzy"]
-description = "Rust棒棒哒, Rust资源大全, Rust资源大全中文版）"
+description = "Rust 棒棒哒, Rust 资源大全, Rust 中文资源"
 language = "zh"
 src = "src"
 multilingual = true
