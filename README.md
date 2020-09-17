@@ -1,6 +1,6 @@
 # Rust棒棒哒
 
-Rust资源大全中文版，[https://rust-res.budshome.com](https://rust-res.budshome.com)。
+Rust资源大全中文版，[https://books.budshome.com/rust-res](https://books.budshome.com/rust-res)。
 
 亲爱的`Rustaceans`，若您希望添加资源，请阅读[资源添加](#资源添加)。
 
